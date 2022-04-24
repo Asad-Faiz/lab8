@@ -19,6 +19,3 @@ class MyApp extends StatelessWidget {
     );
   }
 }
-/// khud likha hy sara
-/// 
-// calll?wait
